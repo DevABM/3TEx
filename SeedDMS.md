@@ -1,0 +1,1 @@
+SeedDMS is a free document management system with an easy to use web based user interface for small and medium sized enterprises. It has been actively developed for more than 10 years and fits many purposes. SeedDMS is based on PHP and MySQL or sqlite3 and runs on Linux, MacOS and Windows.
